@@ -1,5 +1,5 @@
 adblockparser>=0.7,<1
-dnspython>=2.3.0,<3
+dnspython>=2.6.0rc1,<3
 ExifRead>=2.3.2,<3
 CherryPy>=18.8.0,<19
 cherrypy-cors>=1.6,<2
