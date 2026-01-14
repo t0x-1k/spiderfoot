@@ -49,7 +49,7 @@ RUN pip3 install -r "$REQUIREMENTS"
 
 
 
-FROM alpine:3.21.3
+FROM alpine:3.23.2
 WORKDIR /home/spiderfoot
 
 # Place database and logs outside installation directory
